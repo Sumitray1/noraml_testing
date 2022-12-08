@@ -19,6 +19,7 @@ body {
   /* margin-left: auto;
   margin-right: auto; */
   margin: 0 auto;
+  padding-left: 7px;
 }
 
 .main-header {
